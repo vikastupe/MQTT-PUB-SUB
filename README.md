@@ -1,6 +1,6 @@
 # MQTT-PUB-SUB
 
-##This Repo contains simple message publish and subscribe method. 
+## This Repo contains simple message publish and subscribe method. 
 
 ### Requirement of packages. 
 1. paho-mqtt
